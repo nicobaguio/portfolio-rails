@@ -1,0 +1,29 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+li {
+	display: inline;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+h1 ul li:first-child {
+	margin-left: 100px;
+}
+
+#name {
+	float: right;
+	margin-right: 50px;
+}
+
+.main {
+	background-image: url(http://7-themes.com/data_images/out/48/6934839-leaves-vector-background.jpg);
+}
+
+.image {
+	height: 64px;
+	width:64px;
+	display: inline-block;
+	float: right;
+}
